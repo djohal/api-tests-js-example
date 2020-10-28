@@ -1,0 +1,17 @@
+{
+  "name": "api-test-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.0",
+    "supertest": "^5.0.0"
+  }
+}
